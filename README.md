@@ -5,7 +5,7 @@
 
 - It is possible to fit deep learning weights and bias using evolutionary algorithm, right after training stage. Here, CNN is used to classify 8 face classes. After CNN train, initial fuzzy model is created to aid the learning process. Finally, CNN network weights (from Fully Connected Layer) trains using Bees algorithm to be fitted in a nature inspired manner (here behavior of Bees). You can used your data with any number of samples and classes. Remember, code's parameters are adjusted for this data and if you want to replace your data you may have to change the parameters. Image data is in 64*64 size and in 2 dimensions and stored in 'CNNDat' folder. So, important parameters are as below:
 
-
+![Bees CNN](https://user-images.githubusercontent.com/11339420/150426815-417019d7-f7af-4de2-890e-582411724840.jpg)
  
 - 1.
 - 'numTrainFiles' = you have to change this based on number of your samples in each class. for example if each class has 120 sample, 90 is good enough as 90 samples considered for train and others for test.
@@ -26,5 +26,5 @@
 - Author: SeyedMuhammadHosseinMousavi
 - My Email: mosavi.a.i.buali@gmail.com 
 - Hope it help you, enjoy the code and wish me luck :)
-![Bees CNN](https://user-images.githubusercontent.com/11339420/150426815-417019d7-f7af-4de2-890e-582411724840.jpg)
+
 
