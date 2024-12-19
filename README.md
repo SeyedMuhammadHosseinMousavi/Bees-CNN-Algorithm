@@ -1,7 +1,7 @@
 # Bees CNN Algorithm
 - [![View Bees CNN Evolutionary Algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105510-bees-cnn-evolutionary-algorithm)
 
-- Bees CNN Algorithm (A Fuzzy Evolutionary Deep Leaning) - Created in 20 Jan 2022 by Seyed Muhammad Hossein Mousavi
+- Bees CNN Algorithm (A Fuzzy Evolutionary Deep Learning) - Created in 20 Jan 2022 by Seyed Muhammad Hossein Mousavi
 
 <div align="justify">
  
